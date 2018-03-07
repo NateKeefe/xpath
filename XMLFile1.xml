@@ -1,0 +1,28 @@
+﻿<basic>
+  <account>
+    <searchValue internalId="1"></searchValue>
+  </account>
+  <amount>
+    <searchValue>-4800.0</searchValue>
+  </amount>
+  <mainLine>
+    <searchValue>true</searchValue>
+  </mainLine>
+  <postingPeriod>
+    <searchValue internalId="196"></searchValue>
+  </postingPeriod>
+  <tranDate>
+    <searchValue>2012-06-04T00:00:00.000-07:00</searchValue>
+  </tranDate>
+  <tranId>
+    <searchValue>Memorized</searchValue>
+  </tranId>
+  <type>
+    <searchValue>_check</searchValue>
+  </type>
+</basic>
+<vendorJoin>
+  <accountNumber>
+    <searchValue>WE00001</searchValue>
+  </accountNumber>
+</vendorJoin>
