@@ -4,3 +4,4 @@ C:\Users\Admin\documents\visual studio 2015\Projects\ConsoleApplication2\Console
 C:\Users\Admin\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 C:\Users\Admin\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\Admin\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\XMLFile1.xml
